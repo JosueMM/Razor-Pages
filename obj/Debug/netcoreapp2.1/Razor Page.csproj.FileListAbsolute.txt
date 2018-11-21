@@ -97,3 +97,5 @@ C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.Views.pd
 C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.dll
 C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.pdb
 C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.g.cshtml.cs
+C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Registro.g.cshtml.cs
