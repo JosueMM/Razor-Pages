@@ -1,33 +1,66 @@
-C:\Users\Usuario\Desktop\Razor Page\bin\Debug\netcoreapp2.1\Razor Page.deps.json
-C:\Users\Usuario\Desktop\Razor Page\bin\Debug\netcoreapp2.1\Razor Page.runtimeconfig.json
-C:\Users\Usuario\Desktop\Razor Page\bin\Debug\netcoreapp2.1\Razor Page.runtimeconfig.dev.json
-C:\Users\Usuario\Desktop\Razor Page\bin\Debug\netcoreapp2.1\Razor Page.dll
-C:\Users\Usuario\Desktop\Razor Page\bin\Debug\netcoreapp2.1\Razor Page.pdb
-C:\Users\Usuario\Desktop\Razor Page\bin\Debug\netcoreapp2.1\Razor Page.Views.dll
-C:\Users\Usuario\Desktop\Razor Page\bin\Debug\netcoreapp2.1\Razor Page.Views.pdb
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.csprojAssemblyReference.cache
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.RazorAssemblyInfo.cache
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.RazorAssemblyInfo.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.AssemblyInfoInputs.cache
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.AssemblyInfo.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.TagHelpers.input.cache
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.TagHelpers.output.cache
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.RazorCoreGenerate.cache
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.RazorTargetAssemblyInfo.cache
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.RazorTargetAssemblyInfo.cs
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.Views.pdb
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.dll
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.pdb
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor Page.csproj.CopyComplete
-C:\Users\Usuario\Desktop\Razor Page\obj\Debug\netcoreapp2.1\Razor\Views\Home\Producto.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/bin/Debug/netcoreapp2.1/Razor Page.deps.json
+C:/Users/Usuario/Desktop/Razor Page/bin/Debug/netcoreapp2.1/Razor Page.runtimeconfig.json
+C:/Users/Usuario/Desktop/Razor Page/bin/Debug/netcoreapp2.1/Razor Page.runtimeconfig.dev.json
+C:/Users/Usuario/Desktop/Razor Page/bin/Debug/netcoreapp2.1/Razor Page.dll
+C:/Users/Usuario/Desktop/Razor Page/bin/Debug/netcoreapp2.1/Razor Page.pdb
+C:/Users/Usuario/Desktop/Razor Page/bin/Debug/netcoreapp2.1/Razor Page.Views.dll
+C:/Users/Usuario/Desktop/Razor Page/bin/Debug/netcoreapp2.1/Razor Page.Views.pdb
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.csprojAssemblyReference.cache
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.RazorAssemblyInfo.cache
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.RazorAssemblyInfo.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.TagHelpers.input.cache
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.TagHelpers.output.cache
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.RazorCoreGenerate.cache
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.RazorTargetAssemblyInfo.cache
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.RazorTargetAssemblyInfo.cs
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.Views.pdb
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.dll
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.pdb
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor Page.csproj.CopyComplete
+C:/Users/Usuario/Desktop/Razor Page/obj/Debug/netcoreapp2.1/Razor/Views/Home/Producto.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/bin/Debug/netcoreapp2.1/Razor Page.deps.json
+/home/chacon/JAKADESING/Allan/Razor-Pages/bin/Debug/netcoreapp2.1/Razor Page.runtimeconfig.json
+/home/chacon/JAKADESING/Allan/Razor-Pages/bin/Debug/netcoreapp2.1/Razor Page.runtimeconfig.dev.json
+/home/chacon/JAKADESING/Allan/Razor-Pages/bin/Debug/netcoreapp2.1/Razor Page.dll
+/home/chacon/JAKADESING/Allan/Razor-Pages/bin/Debug/netcoreapp2.1/Razor Page.pdb
+/home/chacon/JAKADESING/Allan/Razor-Pages/bin/Debug/netcoreapp2.1/Razor Page.Views.dll
+/home/chacon/JAKADESING/Allan/Razor-Pages/bin/Debug/netcoreapp2.1/Razor Page.Views.pdb
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.csprojAssemblyReference.cache
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.csproj.CoreCompileInputs.cache
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.RazorAssemblyInfo.cache
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.RazorAssemblyInfo.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.AssemblyInfoInputs.cache
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.AssemblyInfo.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.TagHelpers.input.cache
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.TagHelpers.output.cache
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.RazorCoreGenerate.cache
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Home/Producto.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.RazorTargetAssemblyInfo.cache
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.RazorTargetAssemblyInfo.cs
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.Views.pdb
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.dll
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.pdb
+/home/chacon/JAKADESING/Allan/Razor-Pages/obj/Debug/netcoreapp2.1/Razor Page.csproj.CopyComplete

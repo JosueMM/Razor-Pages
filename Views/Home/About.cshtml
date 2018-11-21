@@ -1,7 +1,78 @@
-﻿@{
+﻿  @{
     ViewData["Title"] = "About";
 }
-<h2>@ViewData["Title"]</h2>
-<h3>@ViewData["Message"]</h3>
+  <body id="body-register">
+       
 
-<p>Use this area to provide additional information.</p>
+
+        <div class="container">
+            <div class="jumbotron" id="fondoRegister">
+                <div class="bloque">
+
+                    <h2 class="leyenda"> Completar Registro</h2>
+                    <br>
+                    <br>
+                    <input type="text" placeholder="&#128100;  Usuario" id="usuario" required><br>
+                    <input type="password" placeholder="&#128273;  Contrase&ntilde;a" id="contrasenna" required><br>
+                    
+                    <br>
+                    <button  type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target=".registro">	Registrar</button>
+                    <a href="#"><button type="button"  id="addUserButton" class="btn btn-success">Acceder </button>    </a>
+                    <br>
+                </div>
+            </div>
+        </div>
+
+
+
+          <!-- Modal -->
+          <div class="modal fade registro" id="myModall" role="dialog">
+            <div class="modal-dialog">
+
+              <!-- Modal content-->
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">Mensaje</h4>
+                </div>
+                <div class="modal-body">
+                  <div class="container">
+
+                    <div class="row">
+                      <div class="col-sm-12 col-md-12">
+                        <div class="panel panel-default">
+                          <div class="panel-body">
+                            <form accept-charset="UTF-8" action="" method="POST">
+                              <input type="text" id="txtMensaje" class="form-control" name="message" placeholder="Escribir Mensaje"></input>
+                              <input type="email" placeholder="&#9993;  Correo" id="correo" required autofocus><br>
+                              <input type="text" placeholder="&#128100;  Usuario" id="usuario" required><br>
+                             <input type="password" placeholder="&#128273;  Contrase&ntilde;a" id="contrasenna" required><br>
+                             <input type="password" placeholder="&#128273;  Verificar Contrase&ntilde;a" id="ccontrasenna" required><br>
+                             <input type="number" placeholder="&#128241; Telefono" required id="telefono"><br>
+                              <input type="text" placeholder="&#9967;  Direccion" id="direccion" required><br>
+
+                              <button id="btnEnviar" class="btn btn-info" type="button">Enviar Mensaje</button>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+
+                  <br>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                </div>
+              </div>
+                </div>
+            </div>
+          </div>
+
+
+
+
+    </body>
+
