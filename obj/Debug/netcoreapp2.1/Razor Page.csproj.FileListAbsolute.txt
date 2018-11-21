@@ -97,5 +97,43 @@ C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.Views.pd
 C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.dll
 C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.pdb
 C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.csproj.CopyComplete
+<<<<<<< HEAD
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.csprojAssemblyReference.cache
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.csproj.CoreCompileInputs.cache
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.RazorAssemblyInfo.cache
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.RazorAssemblyInfo.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.AssemblyInfoInputs.cache
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.AssemblyInfo.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.TagHelpers.input.cache
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.TagHelpers.output.cache
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.RazorCoreGenerate.cache
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Producto.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Registro.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.RazorTargetAssemblyInfo.cache
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.RazorTargetAssemblyInfo.cs
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.dll
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.pdb
+=======
 C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.g.cshtml.cs
 C:\Users\Usuario\Desktop\Razor-Pages\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Registro.g.cshtml.cs
+>>>>>>> a231393f7518887eb6b7dc27fa34075b30787302
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\bin\Debug\netcoreapp2.1\Razor Page.deps.json
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\bin\Debug\netcoreapp2.1\Razor Page.runtimeconfig.json
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\bin\Debug\netcoreapp2.1\Razor Page.runtimeconfig.dev.json
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\bin\Debug\netcoreapp2.1\Razor Page.dll
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\bin\Debug\netcoreapp2.1\Razor Page.pdb
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\bin\Debug\netcoreapp2.1\Razor Page.Views.dll
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\bin\Debug\netcoreapp2.1\Razor Page.Views.pdb
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.Views.pdb
+C:\Users\roke1\Desktop\JakaDesign\Razor-Pages\obj\Debug\netcoreapp2.1\Razor Page.csproj.CopyComplete

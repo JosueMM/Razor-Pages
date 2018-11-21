@@ -1,4 +1,4 @@
-
+@model IEnumerable<Razor_Page.Models.Producto>
 
 @{
     ViewData["Title"] = "Producto";
@@ -55,13 +55,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Activo)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TipoProducto.tipo)
-            </td>
             
-            <td>
-                @Html.DisplayFor(modelItem => item.Imagen.Imagen)
-            </td>
           
             <td>
                 <a class="glyphicon glyphicon-pencil" asp-action="Edit" asp-route-id="@item.ID"></a>
