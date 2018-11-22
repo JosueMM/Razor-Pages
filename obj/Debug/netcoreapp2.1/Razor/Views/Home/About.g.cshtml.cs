@@ -68,7 +68,7 @@ using Razor_Page.Models;
             WriteLiteral("  ");
             EndContext();
             BeginContext(45, 3026, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27cf396481f14f4fb6ca6a15b10d73c3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3d515c2ba238458f862370d5d9bfdb26", async() => {
                 BeginContext(70, 1621, true);
                 WriteLiteral(@"
        
@@ -115,7 +115,7 @@ using Razor_Page.Models;
                             ");
                 EndContext();
                 BeginContext(1691, 915, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "14e4d959d3364b39bd269ee6c696bd5e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e4213f69c6e14a75b95d8cb0144f91ca", async() => {
                     BeginContext(1744, 855, true);
                     WriteLiteral(@"
                               <input type=""email"" placeholder=""&#9993;  Correo"" id=""correo"" required autofocus><br>

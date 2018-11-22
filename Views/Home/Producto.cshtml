@@ -1,10 +1,10 @@
-
+@model IEnumerable<Razor_Page.Models.Producto>
 
 @{
     ViewData["Title"] = "Producto";
 }
 
-@if(Session.isSingin){
+
 <strong class="strong">LIST OF YOURS PRODUCTS</strong>
 <br>
 <br>
@@ -55,13 +55,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Activo)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TipoProducto.tipo)
-            </td>
             
-            <td>
-                @Html.DisplayFor(modelItem => item.Imagen.Imagen)
-            </td>
           
             <td>
                 <a class="glyphicon glyphicon-pencil" asp-action="Edit" asp-route-id="@item.ID"></a>
@@ -74,7 +68,7 @@
 </table>
 <button type="button" class="btn btn-secondary center-block"> <a asp-action="Create">Create New</a></button>
 </div>
-}
+
 
 
 

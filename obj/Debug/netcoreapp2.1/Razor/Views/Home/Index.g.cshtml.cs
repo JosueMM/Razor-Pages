@@ -157,7 +157,7 @@ using Razor_Page.Models;
                             ");
             EndContext();
             BeginContext(4399, 260, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "56ecc924772647c6bb5719dd6cd5c3e6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bab981634ea44b539553f107de2f2024", async() => {
                 BeginContext(4452, 200, true);
                 WriteLiteral("\r\n                             \r\n                             \r\n\r\n                              <button id=\"btnEnviar\" class=\"btn btn-info\" type=\"button\">Comprar</button>\r\n                            ");
                 EndContext();
